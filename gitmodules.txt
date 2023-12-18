@@ -1,4 +1,4 @@
-[submodule "android-tools"]
-	path = android-tools
+[submodule "adb-termux"]
+	path = adb-termux
 	url = https://github.com/nohajc/vendor-adb-patched.git
 	branch = new
